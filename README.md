@@ -2,9 +2,9 @@
 This repository was created for a trained model on yolov5. Model was trained to detect naval ships from satellite images.
 All the work was done in JupyterLab.
 
-This repository contains 1 folders 'yolov5' and 1 .zip file: test_data.zip and ship_detect.ipynb
-test_data.zip file contains all the necessary dataset for training and testing the model.
-Yolov5 contains files for working with the model.
+This repository contains 2 folders 'yolov5' and 'test_data' and ship_detect.ipynb
+'test_data' file contains all the necessary dataset for training and testing the model.
+'yolov5' contains files for working with the model.
 ship_detect.ipynb this is a file with the code.
 
 In this path "MY_TEST_SHIP/yolov5/runs/train/" are all the results of training models.
