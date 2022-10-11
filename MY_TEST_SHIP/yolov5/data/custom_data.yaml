@@ -1,0 +1,12 @@
+
+train: ../test_data/images/train/
+val: ../test_data/images/val/
+
+
+
+nc: 1 #Number of classes
+
+
+# Classes
+names: ['ship']
+  
