@@ -12,3 +12,4 @@ There were 4 trainings in total. With different parameters.
 
 "MY_TEST_SHIP/yolov5/runs/detect/" Here test results = model training results. But starting from result_detect4 and further in order, the test results relate exclusively to the 4 trained models, but with different test parameters.
 
+----------------ZUZEX test task----------------
