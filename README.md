@@ -1,5 +1,5 @@
 # test_ship_yolov5
-This repository was created for a trained model on yolov5. Model was trained to detect naval ships from satellite images.
+This repository was created for a trained model on yolov5. Model was trained to detect ships from satellite images.
 All the work was done in JupyterLab.
 
 This repository contains 2 folders 'yolov5' and 'test_data' and ship_detect.ipynb
